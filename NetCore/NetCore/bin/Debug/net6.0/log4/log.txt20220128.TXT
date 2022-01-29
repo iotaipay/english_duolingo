@@ -1,0 +1,13 @@
+2022-01-28 21:37:20,123 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:9999
+2022-01-28 21:37:20,339 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-28 21:37:20,342 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-28 21:37:20,345 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\DoNet\20220107NetCore\NetCore\NetCore\
+2022-01-28 21:37:24,011 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了----_Logger
+2022-01-28 21:37:24,018 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了---_Logger2
+2022-01-28 21:37:24,035 [.NET ThreadPool Worker] INFO  NetCore.Utility.Filters.CustomLogAsyncActionFilterAttribute - 执行了Third控制器的Index4方法，参数为?id=33
+2022-01-28 21:37:24,169 [.NET ThreadPool Worker] INFO  NetCore.Utility.Filters.CustomLogAsyncActionFilterAttribute - 执行了Third控制器的Index4方法，结果内容为{"StatusCode":null,"ViewName":null,"Model":"这是 Payment 练习的一个 Index4 方法","ViewData":{"user":"{\"Id\":33,\"Name\":\"Payment --- ViewBag\",\"Age\":33}","UserInfo":"{\"Id\":33,\"Name\":\"Payment --- ViewData\",\"Age\":33}"},"TempData":{},"ViewEngine":null,"ContentType":null}
+2022-01-28 21:37:25,098 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了----_Logger
+2022-01-28 21:37:25,103 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了---_Logger2
+2022-01-28 21:37:25,109 [.NET ThreadPool Worker] INFO  NetCore.Utility.Filters.CustomLogAsyncActionFilterAttribute - 执行了Third控制器的Index4方法，参数为?id=33
+2022-01-28 21:37:25,112 [.NET ThreadPool Worker] INFO  NetCore.Utility.Filters.CustomLogAsyncActionFilterAttribute - 执行了Third控制器的Index4方法，结果内容为{"StatusCode":null,"ViewName":null,"Model":"这是 Payment 练习的一个 Index4 方法","ViewData":{"user":"{\"Id\":33,\"Name\":\"Payment --- ViewBag\",\"Age\":33}","UserInfo":"{\"Id\":33,\"Name\":\"Payment --- ViewData\",\"Age\":33}"},"TempData":{},"ViewEngine":null,"ContentType":null}
+2022-01-28 21:41:06,603 [10] INFO  Microsoft.Hosting.Lifetime - Application is shutting down...

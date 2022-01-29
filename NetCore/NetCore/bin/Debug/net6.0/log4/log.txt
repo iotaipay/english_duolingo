@@ -1,0 +1,108 @@
+2022-01-29 15:28:24,660 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:9999
+2022-01-29 15:28:25,594 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-29 15:28:25,705 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-29 15:28:25,765 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\DoNet\20220107NetCore\NetCore\NetCore\
+2022-01-29 15:28:47,725 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了----_Logger
+2022-01-29 15:28:47,768 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了---_Logger2
+2022-01-29 15:29:00,374 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了----_Logger
+2022-01-29 15:29:00,407 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了---_Logger2
+2022-01-29 15:29:14,562 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了----_Logger
+2022-01-29 15:29:14,609 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了---_Logger2
+2022-01-29 15:29:52,987 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:9999
+2022-01-29 15:29:53,168 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-29 15:29:53,199 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-29 15:29:53,222 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\DoNet\20220107NetCore\NetCore\NetCore\
+2022-01-29 15:30:03,544 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了----_Logger
+2022-01-29 15:30:03,602 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了---_Logger2
+2022-01-29 15:31:49,322 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了----_Logger
+2022-01-29 15:31:49,351 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了---_Logger2
+2022-01-29 15:33:53,191 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:9999
+2022-01-29 15:33:53,398 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-29 15:33:53,440 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-29 15:33:53,470 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\DoNet\20220107NetCore\NetCore\NetCore\
+2022-01-29 15:34:19,423 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了----_Logger
+2022-01-29 15:34:19,469 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了---_Logger2
+2022-01-29 16:17:02,700 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:9999
+2022-01-29 16:17:03,173 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-29 16:17:03,211 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-29 16:17:03,259 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\DoNet\20220107NetCore\NetCore\NetCore\
+2022-01-29 16:17:12,939 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了----_Logger
+2022-01-29 16:17:12,977 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了---_Logger2
+2022-01-29 16:17:18,186 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了----_Logger
+2022-01-29 16:17:18,218 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了---_Logger2
+2022-01-29 16:17:39,917 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:9999
+2022-01-29 16:17:40,159 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-29 16:17:40,225 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-29 16:17:40,271 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\DoNet\20220107NetCore\NetCore\NetCore\
+2022-01-29 16:17:54,764 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了----_Logger
+2022-01-29 16:17:54,801 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了---_Logger2
+2022-01-29 16:18:42,783 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:9999
+2022-01-29 16:18:43,016 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-29 16:18:43,064 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-29 16:18:43,104 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\DoNet\20220107NetCore\NetCore\NetCore\
+2022-01-29 16:18:56,133 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了----_Logger
+2022-01-29 16:18:56,170 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了---_Logger2
+2022-01-29 16:19:05,523 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了----_Logger
+2022-01-29 16:19:05,571 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了---_Logger2
+2022-01-29 16:19:18,027 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了----_Logger
+2022-01-29 16:19:18,058 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了---_Logger2
+2022-01-29 16:19:19,306 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了----_Logger
+2022-01-29 16:19:19,340 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了---_Logger2
+2022-01-29 16:19:20,553 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了----_Logger
+2022-01-29 16:19:20,585 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了---_Logger2
+2022-01-29 16:27:45,468 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:9999
+2022-01-29 16:27:45,658 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-29 16:27:45,696 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-29 16:27:45,718 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\DoNet\20220107NetCore\NetCore\NetCore\
+2022-01-29 16:28:05,464 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了----_Logger
+2022-01-29 16:28:05,510 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了---_Logger2
+2022-01-29 16:28:47,820 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:9999
+2022-01-29 16:28:47,986 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-29 16:28:48,015 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-29 16:28:48,036 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\DoNet\20220107NetCore\NetCore\NetCore\
+2022-01-29 16:28:58,210 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了----_Logger
+2022-01-29 16:28:58,245 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了---_Logger2
+2022-01-29 18:31:07,374 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:9999
+2022-01-29 18:31:07,683 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-29 18:31:07,717 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-29 18:31:07,743 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\DoNet\20220107NetCore\NetCore\NetCore\
+2022-01-29 18:31:38,132 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了----_Logger
+2022-01-29 18:31:38,168 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了---_Logger2
+2022-01-29 18:31:56,825 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了----_Logger
+2022-01-29 18:31:56,872 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了---_Logger2
+2022-01-29 18:31:58,734 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了----_Logger
+2022-01-29 18:31:58,765 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了---_Logger2
+2022-01-29 18:32:16,249 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:9999
+2022-01-29 18:32:16,663 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-29 18:32:16,709 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-29 18:32:16,739 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\DoNet\20220107NetCore\NetCore\NetCore\
+2022-01-29 18:32:26,577 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了----_Logger
+2022-01-29 18:32:26,615 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了---_Logger2
+2022-01-29 21:09:51,005 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:9999
+2022-01-29 21:09:51,299 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-29 21:09:51,331 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-29 21:09:51,354 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\DoNet\20220107NetCore\NetCore\NetCore\
+2022-01-29 21:13:09,893 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了----_Logger
+2022-01-29 21:13:09,937 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了---_Logger2
+2022-01-29 21:17:27,842 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:9999
+2022-01-29 21:17:28,200 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-29 21:17:28,247 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-29 21:17:28,292 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\DoNet\20220107NetCore\NetCore\NetCore\
+2022-01-29 21:17:36,758 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了----_Logger
+2022-01-29 21:17:36,802 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了---_Logger2
+2022-01-29 21:18:04,775 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:9999
+2022-01-29 21:18:05,069 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-29 21:18:05,117 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-29 21:18:05,150 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\DoNet\20220107NetCore\NetCore\NetCore\
+2022-01-29 21:18:12,560 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了----_Logger
+2022-01-29 21:18:12,603 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了---_Logger2
+2022-01-29 21:21:08,000 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:9999
+2022-01-29 21:21:08,164 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-29 21:21:08,238 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-29 21:21:08,344 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\DoNet\20220107NetCore\NetCore\NetCore\
+2022-01-29 21:21:15,058 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了----_Logger
+2022-01-29 21:21:15,095 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了---_Logger2
+2022-01-29 21:21:21,389 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了----_Logger
+2022-01-29 21:21:21,418 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了---_Logger2
+2022-01-29 21:33:47,169 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了----_Logger
+2022-01-29 21:33:47,206 [.NET ThreadPool Worker] INFO  NetCore.Controllers.ThirdController - ThirdController 被构造了---_Logger2

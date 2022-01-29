@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewData["Title"] = "DataIndex11111111111";
+}
+@model String 
+<h1>This is first Index</h1>
+<h2>User1=@ViewBag.User1</h2>
+<h2>User2=@ViewData["User2"]</h2>
+<h2>User3=@TempData["User3"]</h2>
+<h2>User4=@Context.Session.GetString("User4")</h2>
+<h2>User5=@Model</h2>
